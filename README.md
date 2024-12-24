@@ -9,11 +9,11 @@ Olist is an Ecommerce site based in Brazil. Based on data from the years 2016-20
 - [Data Structure & Initial Checks](#Data_Structure_&_Initial_Checks)
 - [Executive Summary](#Executive_Summary)
 - [Insights Deep Dive](#Insights_Deep_Dive)
-  -[Orders/Shipping](#Orders/Shipping)
-  -[Categories](#Categories)
-  -[Customers](#Customers)
--[Recommendations](#Recommendations)
--[Assumptions and Caveats](#Assumptions_and_Caveats)
+  - [Orders/Shipping](#Orders/Shipping)
+  - [Categories](#Categories)
+  - [Customers](#Customers)
+- [Recommendations](#Recommendations)
+- [Assumptions and Caveats](#Assumptions_and_Caveats)
 
 ## Objectives
 Order and Shipping Analysis: To assess overall trends related to orders, revenue and shipping
@@ -36,7 +36,7 @@ DAX measures used in power query can be found here [link].
 The company's main database structure as seen below consists of nine tables with a total row count of 17094341 records. A description of each table is as follows:
 [Entity Relationship Diagram here]
 
-##Executive Summary
+## Executive Summary
 
 Findings indicate steady growth in revenue and orders with a peak in November 2017(__), before plateauing at around February 2018. The best overall performing categories are bed, table and bath; computer accessories and beauty/health. Most customers are based in the three biggest states, Rio de Janeiro(13%), Minas Gerais (11%) and São paulo (38%). Furthermore, following states order patterns shows that many of the highest purchasing states spend less on average per order while the inverse happens the lowest purchasing states. Moreover, there is also a correlation between delivery times as the states that order the most spend the least on shipping costs and have the fastest delivery times again the inverse happens. 
 
@@ -46,7 +46,7 @@ On the bar chart above, we can see how Brazilian customers prefer to pay the ord
 
 At Olist, understanding the market dynamics and performance metrics is crucial to driving company growth and sustainability. This report provides an in-depth analysis about order and shipping metrics, category insights and customer ___. By analysing these insights, areas of success and further potential improvement can be identified. 
 
-##Insights Deep Dive
+## Insights Deep Dive
 
 ### Orders/Shipping
 Overall, between October 2016 and August 2018 Olist experienced rapid growth, peaking in November at $238 million before plateauing through 2018 next year at around $200 - 210 million. During this same time freight prices grew rapidly after February 2018 from an average of $18 to $22. Two significant peaks for shipping times, December 2017 due to busy holiday season and Feb/Mar 2018 which was caused by postal strikes that happened in areas of Brazil. Dig down, the peak time that consumers are more likely to make orders is in the afternoon of all weekdays, especially Monday to Wednesday.
