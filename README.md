@@ -34,7 +34,7 @@ DAX measures used in power query can be found here [link].
 
 ## Data Structure & Initial Checks
 The company's main database structure as seen below consists of nine tables with a total row count of 17094341 records. A description of each table is as follows:
-[Entity Relationship Diagram here]
+[Entity Relationship Diagram here](assets/ERD/)
 
 ## Executive Summary
 
