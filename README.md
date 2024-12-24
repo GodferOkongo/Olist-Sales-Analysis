@@ -29,6 +29,7 @@ The analysis is based on a rich dataset encompassing several key aspects to the 
 The use of customer, order, product and geographical data allows for meaningful insights to be drawn and make data-driven decisions to enhance business strategy and operations. By focusing on these key areas, improvements will be seen in optimised product offerings,  customer reach, retention rate, and drive sustainable growth.
 
 The SQL queries used to inspect and clean the data for this analysis can be found [here](assets/Queries/SQL/)
+
 DAX measures used in power query can be found [here](assets/Queries/DAX/)
 
 ## Data Structure & Initial Checks
