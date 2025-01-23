@@ -1,6 +1,6 @@
 # Olist-Sales-Analysis
 
-Olist is an Ecommerce site based in Brazil. Based on data from the years 2016-2018, analysis was conducted to gain insight on sales metrics to further understand product and category performance, order patterns and return metrics. Using this information, future decisions were guided towards expanding into new markets, pushing underperforming products and categories and overall maximising revenue.  
+Olist is an Ecommerce site based in Brazil. Based on data from the years 2016-2018, analysis was conducted to gain insight on sales metrics to further understand product and category performance, order patterns and return metrics. Using this information, future decisions were guided towards expanding into new markets, finding and pushing underutilised products and categories and overall maximising revenue.  
 
 # Table of Contents
 
@@ -22,18 +22,22 @@ Customer and Geographical Profiling: To analyse customer behaviour and geographi
 
 ## Data Description
 The analysis is based on a rich dataset encompassing several key aspects to the Olist business operations.
-1. Customer Details
-2. Order Details
-3. Product Details
-4. Geographical Details
-The use of customer, order, product and geographical data allows for meaningful insights to be drawn and make data-driven decisions to enhance business strategy and operations. By focusing on these key areas, improvements will be seen in optimised product offerings,  customer reach, retention rate, and drive sustainable growth.
+1. Customer Details: This data provides insight into customers, including where orders were placed at a city and state level. This information can be used to _____
+   
+2. Order Details: This data provides comprehensive information about the orders placed. Seller information, Shipping times and costs, dates and quantities. It help tracking purchasing patterns and identify not only high-performing products, but products with high growth.
+   
+3. Product Details: This data sets includes information about each product. Categories, price and sales performance. This allows for evalution for what products and categories are the most popular and profitable.
+   
+4. Geographical Details: Geogrpahical data that details the regions of customers and sellers. this helps evaluates regional performance and tailor maketing strateegies to different areas.
+   
+The use of customer, order, product and geographical data allows for meaningful insights to be drawn and make data-driven decisions to enhance business strategy and operations. By focusing on these key areas, improvements will be seen in optimised product offerings, customer reach, retention rate, and drive sustainable growth.
 
 The SQL queries used to inspect and clean the data for this analysis can be found [here](assets/Queries/SQL/)
 
 DAX measures used in power query can be found [here](assets/Queries/DAX/)
 
 ## Data Structure & Initial Checks
-The company's main database structure as seen below consists of nine tables with a total row count of 17094341 records. A description of each table is as follows:
+The company's main database structure as seen below consists of nine tables with a total row count of 17,094,341 records. A description of each table is as follows:
 [Entity Relationship Diagram here](assets/ERD/)
 
 ## Executive Summary
