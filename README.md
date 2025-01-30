@@ -58,7 +58,7 @@ Overall, between October 2016 and August 2018 Olist experienced rapid growth, pe
 
 
 ### Customers
-An average monetary customer spends $136 and 75% spend less than $150. Transiting to payment types now, credit card really took the majority place on brazilian e-commerce with 73% of purchases being made with that payment type. Besides that, from March 2018 it's possible to see a little decrease in this type of payment. By the other hand, payments made by debit card are showing a growing trend since may 2018, which is a good opportunity for investors to improve services for payments like this. Additionally, Brazilian customers prefer to pay the order in one installment. Though, over one million orders had payments with 10 or more installments and further 10 out of 11 of the most expensive average payment installments were double digit, showing that customers a very willing to use long-term installments to pay for expensive orders. Dig down, the peak time that consumers are more likely to make orders is in the afternoon of all weekdays, especially Monday to Wednesday.
+An average monetary customer spends $136 and 75% spend less than $150. Transitioning to payment types now, credit card really took the majority place on brazilian e-commerce with 73% of purchases being made with that payment type. Besides that, from March 2018 it's possible to see a little decrease in this type of payment. By the other hand, payments made by debit card are showing a growing trend since may 2018, which is a good opportunity for investors to improve services for payments like this. Additionally, Brazilian customers prefer to pay the order in one installment. Though, over one million orders had payments with 10 or more installments and further 10 out of 11 of the most expensive average payment installments were double digit, showing that customers a very willing to use long-term installments to pay for expensive orders. Dig down, the peak time that consumers are more likely to make orders is in the afternoon of all weekdays, especially Monday to Wednesday.
 
 [Visualization specific to category 2]
 
@@ -69,19 +69,20 @@ However, 47% of categories have shown negative revenue growth rate. Most categor
 
 [Visualization specific to category 3]
 
+## Conclusion
+-Expand customer base into untapped and underperforming markets
+-Push deals and offers to increase organic traffic
+-Improve customer retention
+
+
 ## Recommendations
-Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following:
-Focus on pushing products in categories that showed high growth such as construction tools, pets and bedroom furniture. This will help to grow revenue and would enable the company to enhance its overall performance and mitigate potential risks in the market.
-Expand into the underperforming regions of Ceara, Pernambuco and Para to increase customer base. 
-Only 3% of customers are repeat customers. Improving this number is crucial to making revenue more stable. Offer more deals and advertise sales to previous customers to retain sales.
-Consider promotion at busy times such as holiday period and black Friday to increase volume or launch new products.
+1. Expand customer base into untapped and underperforming markets
+   Focus on increasing sales in regions that have tradionally performed poorly relative to their potential such as Ceara, Pernambuco and Para by leveraging successful strategies from higher performing regions and increasing promotion.
 
-## Assumptions and Caveats
-Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
-Assumption 1 (ex: missing country records were for customers based in the US, and were re-coded to be US citizens)
+2. Increase Deals and Offers for more Organic Traffic
+Busy events such as the holiday period, Black Friday should involve more promotional deals. Furthermore, intice customers to use more payment installments and pushing categories with high growth. ____
 
-
-Assumption 1 (ex: data for December 2021 was missing - this was imputed using a combination of historical trends and December 2020 data)
-
-
-Assumption 1 (ex: because 3% of the refund date column contained non-sensical dates, these were excluded from the analysis)
+3. Improve Customer Retention
+    
+###
+Link to Dashboards
