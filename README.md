@@ -22,13 +22,13 @@ Customer and Geographical Profiling: To analyse customer behaviour and geographi
 
 ## Data Description
 The analysis is based on a rich dataset encompassing several key aspects to the Olist business operations.
-1. Customer Details: This data provides insight into customers, including where orders were placed at a city and state level. This information can be used to _____
+1. Customer Details: This data provides insight into customers, including trends that relate to payment types, average amount spent and when purchases are made. This information can be used to better understand customer trends to further to improve their ecommerce experience.
    
 2. Order Details: This data provides comprehensive information about the orders placed. Seller information, Shipping times and costs, dates and quantities. It help tracking purchasing patterns and identify not only high-performing products, but products with high growth.
    
 3. Product Details: This data sets includes information about each product. Categories, price and sales performance. This allows for evalution for what products and categories are the most popular and profitable.
    
-4. Geographical Details: Geogrpahical data that details the regions of customers and sellers. this helps evaluates regional performance and tailor maketing strateegies to different areas.
+4. Geographical Details: Geogrpahical data that details the regions of customers and sellers. this helps evaluates regional performance and tailor maketing strategies to different areas.
    
 The use of customer, order, product and geographical data allows for meaningful insights to be drawn and make data-driven decisions to enhance business strategy and operations. By focusing on these key areas, improvements will be seen in optimised product offerings, customer reach, retention rate, and drive sustainable growth.
 
