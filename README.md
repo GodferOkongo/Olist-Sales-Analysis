@@ -72,17 +72,23 @@ However, 47% of categories have shown negative revenue growth rate. Most categor
 ## Conclusion
 -Expand customer base into untapped and underperforming markets
 -Push deals and offers to increase organic traffic
+-Enhance product visability
 -Improve customer retention
 
 
 ## Recommendations
 1. Expand customer base into untapped and underperforming markets
-   Focus on increasing sales in regions that have tradionally performed poorly relative to their potential such as Ceara, Pernambuco and Para by leveraging successful strategies from higher performing regions and increasing promotion.
+Focus on increasing sales in regions that have tradionally performed poorly relative to their potential such as Ceara, Pernambuco and Para by leveraging successful strategies from higher performing regions and increasing promotion.
 
 2. Increase Deals and Offers for more Organic Traffic
-Busy events such as the holiday period, Black Friday should involve more promotional deals. Furthermore, intice customers to use more payment installments and pushing categories with high growth. ____
+Busy events such as the holiday period, Black Friday should involve more promotional deals. Furthermore, intice customers to use more payment installments and pushing categories with high growth. Plan high-demand periods with additional logistical support to prevent delays.
 
-3. Improve Customer Retention
+3.Enhance Product Visability
+Improve product recommendations and search visibility to high growth categories such as construction tools, bedroom furniture and pets.
+
+4. Improve Customer Retention
+Encourage repeat purchases by offering incentives such as discounts.
+
     
 ###
 Link to Dashboards
