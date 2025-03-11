@@ -80,7 +80,7 @@ Focus on increasing sales in regions that have tradionally performed poorly rela
 2. Increase Deals and Offers for more Organic Traffic
 Busy events such as the holiday period, Black Friday should involve more promotional deals. Furthermore, intice customers to use more payment installments and pushing categories with high growth. Plan high-demand periods with additional logistical support to prevent delays.
 
-3.Enhance Product Visability
+3. Enhance Product Visability
 Improve product recommendations and search visibility to high growth categories such as construction tools, bedroom furniture and pets.
 
 4. Improve Customer Retention
