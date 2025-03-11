@@ -51,7 +51,7 @@ At Olist, understanding the market dynamics and performance metrics is crucial t
 ### Orders/Shipping
 Overall, between October 2016 and August 2018 Olist experienced rapid growth, peaking in November at $238 million before plateauing through 2018 next year at around $200 - 210 million. During this same time freight prices grew rapidly after February 2018 from an average of $18 to $22. Two significant peaks for shipping times, December 2017 due to busy holiday season and Feb/Mar 2018 which was caused by postal strikes that happened in areas of Brazil. Most customers are located on the east coast, in cities such as Sao Paulo and Rio de Janeiro. Not only is this where most of the population live but these areas have the fastest shipping and the lowest cost of shipping. This makes sense as these places have the most infrastructure. Furthermore, the low cost is enticing for people in this region. However, there is untapped potential in the country north-east with areas such as Ceara, Pernambuco and Para as these areas have a low amount of orders compared to their population. 
 
-![Ordrers_&_Shipping]()
+![Ordrers_&_Shipping](assets/Images/O&S_Insights.png)
 
 
 ### Customers
