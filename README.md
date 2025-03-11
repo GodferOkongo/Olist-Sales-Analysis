@@ -44,9 +44,6 @@ The company's main database structure as seen below consists of nine tables with
 
 Findings indicate steady growth in revenue and orders with a peak in November 2017 of $238 million, before plateauing at around February 2018 averaging around $200 million. The best overall performing categories are bed, table and bath; computer accessories and beauty/health. Most customers are based in the three biggest states, Rio de Janeiro(13%), Minas Gerais (11%) and São paulo (38%). Furthermore, order patterns shows that many of the highest purchasing states spend less on average per order while the inverse happens the lowest purchasing states. Moreover, there is also a correlation between delivery times as the states that order the most spend the least on shipping costs and have the fastest delivery times and again the inverse is also illustrated with states the order the least. Freight/shipping prices had a significant rise after February 2018 peaking at $22.45 in July of that year. This rise also occurred during the revenue plateau, suggesting correlation between the two factors. 
 
-
-[Visualisation, including a graph of overall trends or snapshot of a dashboard]
-
 At Olist, understanding the market dynamics and performance metrics is crucial to driving company growth and sustainability. This report provides an in-depth analysis about order and shipping metrics, category and customer insights. By analysing these findings, areas of success and further potential improvement can be identified. 
 
 ## Insights Deep Dive
@@ -54,7 +51,7 @@ At Olist, understanding the market dynamics and performance metrics is crucial t
 ### Orders/Shipping
 Overall, between October 2016 and August 2018 Olist experienced rapid growth, peaking in November at $238 million before plateauing through 2018 next year at around $200 - 210 million. During this same time freight prices grew rapidly after February 2018 from an average of $18 to $22. Two significant peaks for shipping times, December 2017 due to busy holiday season and Feb/Mar 2018 which was caused by postal strikes that happened in areas of Brazil. Most customers are located on the east coast, in cities such as Sao Paulo and Rio de Janeiro. Not only is this where most of the population live but these areas have the fastest shipping and the lowest cost of shipping. This makes sense as these places have the most infrastructure. Furthermore, the low cost is enticing for people in this region. However, there is untapped potential in the country north-east with areas such as Ceara, Pernambuco and Para as these areas have a low amount of orders compared to their population. 
 
-[Visualization specific to category 1]
+![Ordrers_&_Shipping]()
 
 
 ### Customers
