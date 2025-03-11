@@ -57,14 +57,14 @@ Overall, between October 2016 and August 2018 Olist experienced rapid growth, pe
 ### Customers
 An average monetary customer spends $136 and 75% spend less than $150. Transitioning to payment types now, credit card really took the majority place on brazilian e-commerce with 73% of purchases being made with that payment type. Besides that, from March 2018 it's possible to see a little decrease in this type of payment. By the other hand, payments made by debit card are showing a growing trend since may 2018, which is a good opportunity for investors to improve services for payments like this. Additionally, Brazilian customers prefer to pay the order in one installment. Though, over one million orders had payments with 10 or more installments and further 10 out of 11 of the most expensive average payment installments were double digit, showing that customers a very willing to use long-term installments to pay for expensive orders. Dig down, the peak time that consumers are more likely to make orders is in the afternoon of all weekdays, especially Monday to Wednesday.
 
-[Visualization specific to category 2]
+![Customer_Insights](assets/Images/customer_insights.png)
 
 ### Categories
 The company is not over reliant on any singular category as no one category takes up over 15% of total order. The top 3 categories in terms of orders are bed, bath and table, computer accessories and health & beauty. Most revenue comes from the top 25 categories, showing that Olist has a diversified portfolio of products. Moreover, Categories such as construction tools (34.80%), construction tools light(37.72%), bedroom furniture(24.41%) and pets(15.15%) have seen the biggest growth in revenue in the first three quarters of 2018. Meanwhile, categories like fashion underwear beach (21.78%), garden tools (13.13%) have had the biggest growth in terms of orders in the same time period. 
 
 However, 47% of categories have shown negative revenue growth rate. Most categories perform inconsistantly which is only compounded by the low amount of repeat purchases, contributing to low annual growth rate of 1.23% for Olist. While there are some bright spots, more has to be done to drive more traffic to the site and create loyal customers. 
 
-[Visualization specific to category 3]
+![Catgorical_Insights](assets/Images/category_insights.png)
 
 ## Conclusion
 -Expand customer base into untapped and underperforming markets
